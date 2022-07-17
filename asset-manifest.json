@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harshisawesome2.github.io/csb-fsowx1/static/css/main.fec8e937.chunk.css",
+    "main.js": "https://harshisawesome2.github.io/csb-fsowx1/static/js/main.6ef3cf77.chunk.js",
+    "main.js.map": "https://harshisawesome2.github.io/csb-fsowx1/static/js/main.6ef3cf77.chunk.js.map",
+    "runtime-main.js": "https://harshisawesome2.github.io/csb-fsowx1/static/js/runtime-main.8b94eec2.js",
+    "runtime-main.js.map": "https://harshisawesome2.github.io/csb-fsowx1/static/js/runtime-main.8b94eec2.js.map",
+    "static/js/2.adb7c125.chunk.js": "https://harshisawesome2.github.io/csb-fsowx1/static/js/2.adb7c125.chunk.js",
+    "static/js/2.adb7c125.chunk.js.map": "https://harshisawesome2.github.io/csb-fsowx1/static/js/2.adb7c125.chunk.js.map",
+    "index.html": "https://harshisawesome2.github.io/csb-fsowx1/index.html",
+    "static/css/main.fec8e937.chunk.css.map": "https://harshisawesome2.github.io/csb-fsowx1/static/css/main.fec8e937.chunk.css.map",
+    "static/js/2.adb7c125.chunk.js.LICENSE.txt": "https://harshisawesome2.github.io/csb-fsowx1/static/js/2.adb7c125.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b94eec2.js",
+    "static/js/2.adb7c125.chunk.js",
+    "static/css/main.fec8e937.chunk.css",
+    "static/js/main.6ef3cf77.chunk.js"
+  ]
+}
